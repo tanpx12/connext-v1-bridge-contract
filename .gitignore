@@ -1,0 +1,5 @@
+artifacts
+cache
+coverage.json
+deployments/*/solcInputs
+node_modules
